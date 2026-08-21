@@ -6,7 +6,7 @@ A solução transforma uma base fictícia de logs em indicadores e análises sob
 
 > **Transparência:** todos os dados são fictícios e foram criados exclusivamente para estudo. Não houve conexão com o Databricks nem extração de logs reais da plataforma.
 
-![Visão geral do dashboard](./assets/dashboard_visao_geral.png)
+![Visão geral do dashboard](./dashboard_visao_geral.png)
 
 ## Problema de negócio
 
@@ -105,29 +105,25 @@ Os valores acima foram conferidos diretamente na base disponibilizada neste repo
 auditoria-databricks-power-bi/
 ├── README.md
 ├── Auditoria_Databricks.pbix
-├── assets/
-│   ├── dashboard_visao_geral.png
-│   ├── dashboard_analise_falhas.png
-│   └── dashboard_detalhamento.png
-├── data/
-│   └── base_auditoria_databricks.xlsx
-└── docs/
-    ├── briefing_original.pdf
-    ├── briefing_projeto.md
-    ├── carrossel_linkedin_auditoria_databricks.pdf
-    ├── dashboard_auditoria_databricks.pdf
-    ├── dicionario_dados.md
+├── base_auditoria_databricks.xlsx
+├── briefing_original.pdf
+├── briefing_projeto.md
+├── carrossel_linkedin_auditoria_databricks.pdf
+├── dashboard_auditoria_databricks.pdf
+├── dashboard_visao_geral.png
+├── dashboard_analise_falhas.png
+├── dashboard_detalhamento.png
+└── dicionario_dados.md
 ```
 
 ## Arquivos principais
 
 - [Arquivo Power BI](./Auditoria_Databricks.pbix)
-- [Base simulada](./data/base_auditoria_databricks.xlsx)
-- [Exportação do dashboard](./docs/dashboard_auditoria_databricks.pdf)
-- [Carrossel revisado](./docs/carrossel_linkedin_auditoria_databricks.pdf)
-- [Briefing revisado](./docs/briefing_projeto.md)
-- [Dicionário de dados](./docs/dicionario_dados.md)
-
+- [Base simulada](./base_auditoria_databricks.xlsx)
+- [Exportação do dashboard](./dashboard_auditoria_databricks.pdf)
+- [Carrossel revisado](./carrossel_linkedin_auditoria_databricks.pdf)
+- [Briefing revisado](./briefing_projeto.md)
+- [Dicionário de dados](./dicionario_dados.md)
 
 ## Limitações
 
@@ -141,4 +137,3 @@ auditoria-databricks-power-bi/
 **Mizammirou Issifou**
 
 Projeto desenvolvido para estudo e portfólio em Análise de Dados.
-
