@@ -117,7 +117,6 @@ auditoria-databricks-power-bi/
     ├── carrossel_linkedin_auditoria_databricks.pdf
     ├── dashboard_auditoria_databricks.pdf
     ├── dicionario_dados.md
-    └── revisao_power_bi.md
 ```
 
 ## Arquivos principais
@@ -128,7 +127,7 @@ auditoria-databricks-power-bi/
 - [Carrossel revisado](./docs/carrossel_linkedin_auditoria_databricks.pdf)
 - [Briefing revisado](./docs/briefing_projeto.md)
 - [Dicionário de dados](./docs/dicionario_dados.md)
-- [Revisão recomendada no Power BI](./docs/revisao_power_bi.md)
+
 
 ## Limitações
 
